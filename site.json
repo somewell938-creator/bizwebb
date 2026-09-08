@@ -1,0 +1,10 @@
+{
+  "description": "Streamline business operations with a comprehensive management platform for small to medium enterprises, covering sales, inventory, finance, and reporting.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
